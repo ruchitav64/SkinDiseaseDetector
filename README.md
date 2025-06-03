@@ -40,7 +40,7 @@ skin-disease-detector/
 ├── train_model.py
 ├── requirements.txt
 └── README.md
-
+```
 ## 🚀 Run Locally
 
 ```bash
