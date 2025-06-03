@@ -23,6 +23,7 @@ python train_model.py
 This will train the CNN using the dataset and automatically save the trained model as skin_disease_detector_model.h5 inside the model/ directory.
 
 📁 Directory Structure
+```bash
 skin-disease-detector/
 │
 ├── static/
