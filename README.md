@@ -22,14 +22,6 @@ To generate the model, run the training script:
 python train_model.py
 This will train the CNN using the dataset and automatically save the trained model as skin_disease_detector_model.h5 inside the model/ directory.
 
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/ruchitav64/SkinDiseaseDetector.git
-cd skin-disease-detector
-pip install -r requirements.txt
-python app.py
-
 📁 Directory Structure
 skin-disease-detector/
 │
@@ -48,7 +40,13 @@ skin-disease-detector/
 ├── requirements.txt
 └── README.md
 
-![Screenshot 2025-06-03 175913](https://github.com/user-attachments/assets/e02bb864-98b6-4393-8f04-330711478e1f)
-![Screenshot 2025-06-03 175944](https://github.com/user-attachments/assets/042440eb-19f3-450d-b977-a0f5ee9b5aba)
+## 🚀 Run Locally
 
-![Screenshot 2025-06-03 175957](https://github.com/user-attachments/assets/1902c107-7ea5-4705-b578-a5ec6e210b69)
+```bash
+git clone https://github.com/ruchitav64/SkinDiseaseDetector.git
+cd skin-disease-detector
+pip install -r requirements.txt
+python app.py
+
+
+
